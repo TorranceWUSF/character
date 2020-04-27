@@ -1,0 +1,12 @@
+Name of Character: Studenet 
+[Strength, Strength Modifier]: [10,1] 
+[Dexterity, Dexterity Modifier]: [11,2]
+[Constitution, Constitution Modifier]: [13,-1]
+[Intelligence, Intelligence Modifier]: [14,2]
+[Wisdom, Wisdom Modifier]: [12,1]
+[Charisma, Charisma Modifier]: [11,0]
+Proficiency: 2
+Speed: 30 
+Armor Class: 12
+Initiative: 1
+Hit Points: 10
